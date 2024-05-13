@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "colours"
 version = "0.0.1"
-description = "A neat command for printing a coloured ANSI colour code reference to the terminal."
+description = "A convenient command for printing an ANSI colour code reference to the terminal."
 authors = ["Tom Van Manen <tom.on.github@gmail.com>"]
 readme = "README.md"
 license = "Hippocratic-3.0"
